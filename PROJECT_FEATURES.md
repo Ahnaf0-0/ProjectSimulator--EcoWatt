@@ -6,6 +6,11 @@ This task provides a dashboard overview that displays key metrics, activities, a
 
 **Status: Implemented DashBoard**
 
+## TS-01: Authentication
+This task involves creating a login form and sign up form component with email and passw
+ord fields, including validation and error handling.
+**Status: Implemented Authentication**
+
 
 ## TS-06 : Peak off peak detection system developed
 Developed a system to identify and analyze energy usage cycles. It enables automated switching between peak and off-peak periods to optimize power distribution and reduce costs based on demand patterns.
